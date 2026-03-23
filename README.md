@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hola, soy Pol Martí 👋
+### Backend Developer Junior | Administrador de Sistemas (ASIX)
 
+Soy un perfil híbrido apasionado por la **infraestructura** y el **desarrollo de software**. Actualmente curso **DAM** y realizo mis prácticas en el departamento de **ITPMO de Grifols**, donde diseño soluciones Low-Code y automatizo flujos de trabajo.
+
+- 🛠️ **Sistemas:** Especialista en Linux, Docker y Redes (ASIX).
+- 💻 **Desarrollo:** Enfocado en Java (Spring Boot) y aprendiendo Angular + MongoDB.
+- ⚙️ **Automatización:** Experto en Power Platform y scripts bash/python.
+
+---
+### 📊 Tecnologías que utilizo:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 <!--
 **pmliixx/pmliixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
