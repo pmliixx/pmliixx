@@ -1,9 +1,5 @@
 # Hi! I'm Pol Martí 👋 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?user=pmliixx&label=Profile%20views&color=0e75b6&style=flat" alt="pmliixx" />
-</p>
-
 [English] | [**Español**](./README.es.md)
 
 ### 🚀 About me
