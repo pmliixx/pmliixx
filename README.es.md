@@ -27,7 +27,7 @@ Soy un **estudiante de DAM** con sólida base en **Sistemas y Ciberseguridad (AS
 ---
 
 ### Estadísticas de GitHub
-![Estadísticas de Pol](https://github-readme-stats.vercel.app/api?username=PolNunez&show_icons=true&theme=tokyonight&count_private=true)
+![Estadísticas de Pol](https://github-readme-stats.vercel.app/api?username=Pol-Nunez&show_icons=true&theme=tokyonight&count_private=true)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=pmliixx&layout=compact&theme=tokyonight)
 
 ---
