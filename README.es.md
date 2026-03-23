@@ -4,6 +4,10 @@
   <img src="https://komarev.com/ghpvc/?user=pmliixx&label=Perfil%20visto&color=0e75b6&style=flat" alt="pmliixx" />
 </p>
 
+[**English**](./README.md) | [Español]
+
+---
+
 ### 🚀 Sobre mí
 Soy un **estudiante de DAM** con sólida base en **Sistemas y Ciberseguridad (ASIX)**. Actualmente aplico mis conocimientos técnicos en **Grifols** (ITPMO), donde desarrollo soluciones de automatización y digitalización.
 
