@@ -4,17 +4,17 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 Soy un **estudiante de DAM** con sólida base en **Sistemas y Ciberseguridad (ASIX)**. Actualmente aplico mis conocimientos técnicos en **Grifols** (ITPMO), donde desarrollo soluciones de automatización y digitalización.
 
-- 🔭 **Trabajando en:** App de gestión documental con Power Platform para Grifols.
-- 🌱 **Aprendiendo:** Fullstack con **Angular** y **MongoDB**.
-- 🛠️ **Stack Principal:** Java (Spring Boot), Linux Administration y Docker.
-- 💬 **Intereses:** Backend Development, Automatización de sistemas y cultura japonesa.
+- **Trabajando en:** App de gestión documental con Power Platform para Grifols.
+- **Aprendiendo:** Fullstack con **Angular** y **MongoDB**.
+- **Stack Principal:** Java (Spring Boot), Linux Administration y Docker.
+- **Intereses:** Backend Development, Automatización de sistemas y cultura japonesa.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 | Categoría | Tecnologías |
 | :--- | :--- |
@@ -26,7 +26,7 @@ Soy un **estudiante de DAM** con sólida base en **Sistemas y Ciberseguridad (AS
 
 ---
 
-### 📈 Estadísticas de GitHub
+### Estadísticas de GitHub
 ![Estadísticas de Pol](https://github-readme-stats.vercel.app/api?username=pmliixx&show_icons=true&theme=tokyonight&count_private=true)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=pmliixx&layout=compact&theme=tokyonight)
 
